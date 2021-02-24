@@ -1,0 +1,8 @@
+C:\Users\DAN\source\repos\ProjectControlClasses\ProjectControlClasses\bin\Release\netstandard2.0\ProjectControlClasses.deps.json
+C:\Users\DAN\source\repos\ProjectControlClasses\ProjectControlClasses\bin\Release\netstandard2.0\ProjectControlClasses.dll
+C:\Users\DAN\source\repos\ProjectControlClasses\ProjectControlClasses\bin\Release\netstandard2.0\ProjectControlClasses.pdb
+C:\Users\DAN\source\repos\ProjectControlClasses\ProjectControlClasses\obj\Release\netstandard2.0\ProjectControlClasses.AssemblyInfoInputs.cache
+C:\Users\DAN\source\repos\ProjectControlClasses\ProjectControlClasses\obj\Release\netstandard2.0\ProjectControlClasses.AssemblyInfo.cs
+C:\Users\DAN\source\repos\ProjectControlClasses\ProjectControlClasses\obj\Release\netstandard2.0\ProjectControlClasses.csproj.CoreCompileInputs.cache
+C:\Users\DAN\source\repos\ProjectControlClasses\ProjectControlClasses\obj\Release\netstandard2.0\ProjectControlClasses.dll
+C:\Users\DAN\source\repos\ProjectControlClasses\ProjectControlClasses\obj\Release\netstandard2.0\ProjectControlClasses.pdb

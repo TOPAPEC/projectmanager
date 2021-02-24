@@ -1,0 +1,15 @@
+C:\Users\DAN\source\repos\ProjectControlConsole\ProjectControlConsole\bin\Release\netcoreapp3.1\ProjectControlConsole.exe
+C:\Users\DAN\source\repos\ProjectControlConsole\ProjectControlConsole\bin\Release\netcoreapp3.1\ProjectControlConsole.deps.json
+C:\Users\DAN\source\repos\ProjectControlConsole\ProjectControlConsole\bin\Release\netcoreapp3.1\ProjectControlConsole.runtimeconfig.json
+C:\Users\DAN\source\repos\ProjectControlConsole\ProjectControlConsole\bin\Release\netcoreapp3.1\ProjectControlConsole.runtimeconfig.dev.json
+C:\Users\DAN\source\repos\ProjectControlConsole\ProjectControlConsole\bin\Release\netcoreapp3.1\ProjectControlConsole.dll
+C:\Users\DAN\source\repos\ProjectControlConsole\ProjectControlConsole\bin\Release\netcoreapp3.1\ProjectControlConsole.pdb
+C:\Users\DAN\source\repos\ProjectControlConsole\ProjectControlConsole\bin\Release\netcoreapp3.1\ProjectControlClasses.dll
+C:\Users\DAN\source\repos\ProjectControlConsole\ProjectControlConsole\obj\Release\netcoreapp3.1\ProjectControlConsole.csprojAssemblyReference.cache
+C:\Users\DAN\source\repos\ProjectControlConsole\ProjectControlConsole\obj\Release\netcoreapp3.1\ProjectControlConsole.AssemblyInfoInputs.cache
+C:\Users\DAN\source\repos\ProjectControlConsole\ProjectControlConsole\obj\Release\netcoreapp3.1\ProjectControlConsole.AssemblyInfo.cs
+C:\Users\DAN\source\repos\ProjectControlConsole\ProjectControlConsole\obj\Release\netcoreapp3.1\ProjectControlConsole.csproj.CoreCompileInputs.cache
+C:\Users\DAN\source\repos\ProjectControlConsole\ProjectControlConsole\obj\Release\netcoreapp3.1\ProjectControlConsole.csproj.CopyComplete
+C:\Users\DAN\source\repos\ProjectControlConsole\ProjectControlConsole\obj\Release\netcoreapp3.1\ProjectControlConsole.dll
+C:\Users\DAN\source\repos\ProjectControlConsole\ProjectControlConsole\obj\Release\netcoreapp3.1\ProjectControlConsole.pdb
+C:\Users\DAN\source\repos\ProjectControlConsole\ProjectControlConsole\obj\Release\netcoreapp3.1\ProjectControlConsole.genruntimeconfig.cache

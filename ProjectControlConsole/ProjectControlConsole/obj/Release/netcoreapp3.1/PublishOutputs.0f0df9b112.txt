@@ -1,0 +1,6 @@
+C:\Users\DAN\source\repos\ProjectControlConsole\ProjectControlConsole\bin\Release\netcoreapp3.1\publish\ProjectControlConsole.exe
+C:\Users\DAN\source\repos\ProjectControlConsole\ProjectControlConsole\bin\Release\netcoreapp3.1\publish\ProjectControlConsole.dll
+C:\Users\DAN\source\repos\ProjectControlConsole\ProjectControlConsole\bin\Release\netcoreapp3.1\publish\ProjectControlConsole.deps.json
+C:\Users\DAN\source\repos\ProjectControlConsole\ProjectControlConsole\bin\Release\netcoreapp3.1\publish\ProjectControlConsole.runtimeconfig.json
+C:\Users\DAN\source\repos\ProjectControlConsole\ProjectControlConsole\bin\Release\netcoreapp3.1\publish\ProjectControlConsole.pdb
+C:\Users\DAN\source\repos\ProjectControlConsole\ProjectControlConsole\bin\Release\netcoreapp3.1\publish\ProjectControlClasses.dll
